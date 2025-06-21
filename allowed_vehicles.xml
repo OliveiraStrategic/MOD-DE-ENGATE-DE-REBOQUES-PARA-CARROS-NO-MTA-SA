@@ -1,0 +1,5 @@
+<allowedVehicles>
+    <vehicle model="400" /> <!-- Landstalker -->
+    <vehicle model="401" /> <!-- Bravura -->
+    <!-- Adicione mais modelos aqui -->
+</allowedVehicles>

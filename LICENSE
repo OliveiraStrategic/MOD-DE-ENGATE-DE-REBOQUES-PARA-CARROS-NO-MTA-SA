@@ -1,4 +1,8 @@
 MIT License
+<<<<<<< HEAD
+=======
+Licença MIT (Português abaixo)
+>>>>>>> c6cc893 (versão 1.0)
 
 Copyright (c) 2025 Gabriel Oliveira
 
@@ -19,3 +23,37 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
+=======
+
+---
+
+Licença MIT (Tradução não-oficial)
+
+Copyright (c) 2025 Gabriel Oliveira
+
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+ deste software e dos arquivos de documentação associados (o "Software"), para negociar
+no Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar,
+modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software,
+e permitir que pessoas a quem o Software é fornecido o façam, sujeitas às seguintes condições:
+
+O aviso de copyright acima e este aviso de permissão devem ser incluídos em todas as
+cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO,
+EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRAÇÃO. EM NENHUMA HIPÓTESE OS AUTORES OU DETENTORES
+DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANO OU OUTRA RESPONSABILIDADE,
+SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO
+COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+
+---
+
+Outras licenças comuns em projetos MTA:SA:
+- GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.html)
+- Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- Creative Commons BY-NC-SA (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Escolha a licença que melhor se adapta ao seu projeto!
+>>>>>>> c6cc893 (versão 1.0)
