@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MOD-DE-ENGATE-DE-REBOQUES-PARA-CARROS-NO-MTA-SA
-=======
 # 🚗 MOD DE ENGATE DE REBOQUES PARA CARROS NO MTA:SA 🚚
 
 **Universal Trailer Attach**
